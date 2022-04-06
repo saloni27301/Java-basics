@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+D:\harman\CoreJavaWorkspace\.metadata\.plugins\org.eclipse.jdt.core
+1153557632.index
+1865797976.index
+3879308312.index
+801221367.index
+2482145582.index

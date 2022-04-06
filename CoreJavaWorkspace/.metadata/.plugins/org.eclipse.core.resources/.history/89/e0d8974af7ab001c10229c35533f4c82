@@ -1,0 +1,11 @@
+package com.harman.model;
+
+public class ComplexNumber {
+	/* data members */
+	double realPart;
+	double imaginaryPart;
+	
+	/* methods */
+	
+	
+}

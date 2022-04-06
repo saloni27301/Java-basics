@@ -1,0 +1,27 @@
+package com.harman.ui;
+
+import java.util.HashSet;
+
+public class App3 {
+
+	public static void main(String[] args) {
+		HashSet<String> set = new HashSet<>();
+		set.add("Core Java");
+		set.add("Spring");
+		set.add("Hibernate");
+		set.add("JSP");
+		set.add("JDBC");
+		set.add("Spring");
+		
+		System.out.println(set);
+		System.out.println("----------------------------------------");
+		
+		for(String data : set) {
+			System.out.println(data);
+		}
+		System.out.println("----------------------------------------");
+		
+
+	}
+
+}

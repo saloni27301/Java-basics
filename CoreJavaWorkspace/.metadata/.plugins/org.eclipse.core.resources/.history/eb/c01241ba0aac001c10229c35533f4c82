@@ -1,0 +1,9 @@
+package com.harman.model;
+
+public class Student {
+	
+	
+	public Student() {
+		System.out.println("default constructor");
+	}
+}

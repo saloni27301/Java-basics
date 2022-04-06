@@ -1,0 +1,21 @@
+package com.harman.model;
+
+public class ComplexNumber {
+	/* data members (or) instance variable */
+	private double realPart;
+	private double imaginaryPart;
+	
+	/* methods */
+	public void setRealPart(double realPart) {
+		realPart = realPart;
+	}
+	public void setImaginaryPart(double imag) {
+		imaginaryPart = imag;
+	}
+	public double getRealPart() {
+		return realPart;
+	}
+	public double getImaginaryPart() {
+		return imaginaryPart;
+	}
+}

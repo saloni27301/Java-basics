@@ -1,0 +1,14 @@
+package com.harman.ui;
+
+import com.harman.model.Product;
+
+public class ProductApp {
+
+	public static void main(String[] args) {
+		Product.setTax(12);
+		
+		
+
+	}
+
+}

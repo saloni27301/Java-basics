@@ -1,0 +1,18 @@
+package com.harman.ui;
+
+public class PrintArgs {
+
+	public static void main(String[] args) {
+		for(int i=0;i<args.length;i++)
+		{
+			System.out.println(args[i]);
+		}
+		main();
+
+	}
+	public static void main()
+	{
+		System.out.println("In Main Method");
+	}
+
+}

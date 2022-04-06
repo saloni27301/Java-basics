@@ -1,0 +1,17 @@
+package com.harman.ui;
+
+import com.harman.model.Person;
+import com.harman.model.Student;
+
+public class InheritanceApp {
+
+	public static void main(String[] args) {
+		Person p1 = new Person("divya", 21);
+		System.out.println(p1.getName() + "\t" + p1.getAge());
+		
+		Student s1 = new Student("ravi", 20, 35000.0);
+		System.out.println(s1.getName() + );
+
+	}
+
+}

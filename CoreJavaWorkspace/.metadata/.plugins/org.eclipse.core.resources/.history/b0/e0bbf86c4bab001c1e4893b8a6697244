@@ -1,0 +1,18 @@
+package com.harman.ui;
+
+public class FactorialFunction {
+
+	int factorial(int num) {
+		int i, fact;
+		fact = 1;
+		for(i = 2; i <= num; i++ ) {
+			fact *= i;
+		}
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

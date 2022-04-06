@@ -1,0 +1,9 @@
+package com.harman.model;
+
+public class Shape {
+	private double firstDimension;
+	private double secondDimension;
+
+	
+
+}

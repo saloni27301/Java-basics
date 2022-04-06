@@ -1,0 +1,20 @@
+package com.harman.model;
+
+public class Circle extends Shape {
+
+	public Circle() {
+		/* default constructor */
+	}
+	
+	public Circle(double firstDimension) {
+		super(firstDimension);
+	}
+
+
+	@Override
+	public double getArea() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

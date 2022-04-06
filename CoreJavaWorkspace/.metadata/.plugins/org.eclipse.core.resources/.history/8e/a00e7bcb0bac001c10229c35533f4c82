@@ -1,0 +1,26 @@
+package com.harman.model;
+
+public class Student {
+	
+	static {
+		System.err.println("in static block");
+	}
+	
+	static {
+		System.err.println("in second static block");
+	}
+	
+	public static void display() {
+		System.out.println("in static display method");
+	}
+	
+	{
+		System.out.println("in block");
+	}
+	
+	public Student() {
+		System.out.println("default constructor");
+	}
+	
+	
+}

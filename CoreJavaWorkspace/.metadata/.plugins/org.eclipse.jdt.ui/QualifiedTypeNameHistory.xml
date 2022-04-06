@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="com.harman.model.Product"/>
+    <fullyQualifiedTypeName name="com.harman.model.Person"/>
+    <fullyQualifiedTypeName name="com.harman.model.Student"/>
+    <fullyQualifiedTypeName name="com.harman.model.Employee"/>
+    <fullyQualifiedTypeName name="com.harman.model.Rectangle"/>
+    <fullyQualifiedTypeName name="com.harman.model.Circle"/>
+    <fullyQualifiedTypeName name="com.harman.model.Shape"/>
+    <fullyQualifiedTypeName name="com.harman.exception.InsufficientBalanceException"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+</qualifiedTypeNameHistroy>

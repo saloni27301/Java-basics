@@ -1,0 +1,34 @@
+package com.harman.model;
+
+public class Shape {
+	private double firstDimension;
+	private double secondDimension;
+	
+	public Shape() {
+		/* default constructor */
+	}
+
+	public Shape(double firstDimension, double secondDimension) {
+		this.firstDimension = firstDimension;
+		this.secondDimension = secondDimension;
+	}
+
+	public double getFirstDimension() {
+		return firstDimension;
+	}
+
+	public void setFirstDimension(double firstDimension) {
+		this.firstDimension = firstDimension;
+	}
+
+	public double getSecondDimension() {
+		return secondDimension;
+	}
+
+	public void setSecondDimension(double secondDimension) {
+		this.secondDimension = secondDimension;
+	}
+
+	
+
+}

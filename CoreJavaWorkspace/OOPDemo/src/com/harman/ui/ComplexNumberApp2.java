@@ -1,0 +1,21 @@
+package com.harman.ui;
+
+import com.harman.model.ComplexNumber;
+
+public class ComplexNumberApp2 {
+
+	public static void main(String[] args) {
+		ComplexNumber c1 = new ComplexNumber(5, 6);
+		ComplexNumber c2 = new ComplexNumber(5, 6);
+		System.out.println(c1 == c2);			// false
+		System.out.println(c1.equals(c2));		// false
+		
+		
+		ComplexNumber c3 = c2;
+		System.out.println(c3 == c2);			// true
+		System.out.println(c3.equals(c2));	
+		
+	}
+
+}
+

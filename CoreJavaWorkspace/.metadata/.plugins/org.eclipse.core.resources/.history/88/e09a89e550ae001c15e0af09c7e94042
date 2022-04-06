@@ -1,0 +1,16 @@
+package com.harman.ui;
+
+import com.harman.model.Circle;
+import com.harman.model.Rectangle;
+
+public class AbstractApp {
+
+	public static void main(String[] args) {
+		Rectangle rect = new Rectangle(10,6);
+		System.out.println(rect.getArea());
+
+		Circle cir = new Circle(4);
+		System.out.println(cir.getArea());
+	}
+
+}

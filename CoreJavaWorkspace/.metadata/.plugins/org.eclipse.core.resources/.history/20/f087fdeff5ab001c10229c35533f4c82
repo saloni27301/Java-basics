@@ -1,0 +1,17 @@
+package com.harman.ui;
+
+public class ComplexNumberApp {
+
+	public static void main(String[] args) {
+		ComplexNumber c1;
+		c1 = new ComplexNumber();
+		
+		c1.realPart = 5;
+		c1.imaginaryPart = 10;
+		
+		System.out.println(c1.realPart + "\t" + c1.imaginaryPart);
+		
+
+	}
+
+}

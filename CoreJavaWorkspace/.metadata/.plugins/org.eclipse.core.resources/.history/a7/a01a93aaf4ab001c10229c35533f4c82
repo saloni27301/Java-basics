@@ -1,0 +1,7 @@
+package com.harman.ui;
+
+public class ComplexNumber {
+	double realPart;
+	double imaginaryPart;
+	
+}
